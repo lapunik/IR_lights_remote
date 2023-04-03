@@ -57,6 +57,7 @@
       ],
       "drc_exclusions": [
         "courtyards_overlap|133225001|92875001|c5ebcd84-ea47-4584-9ce7-ad7ea72104ec|933bdaf9-bdfa-49e6-9976-af82252c335b",
+        "courtyards_overlap|146550001|98975001|933bdaf9-bdfa-49e6-9976-af82252c335b|c5ebcd84-ea47-4584-9ce7-ad7ea72104ec",
         "courtyards_overlap|80600001|69500001|c5ebcd84-ea47-4584-9ce7-ad7ea72104ec|933bdaf9-bdfa-49e6-9976-af82252c335b"
       ],
       "meta": {
@@ -413,7 +414,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,

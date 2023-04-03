@@ -1,0 +1,11 @@
+Questionable use of curly braces in "(pin (num "25") (name "~{reset}") (type "input"))"
+    Error: undefined symbol in: "[reset]"
+Questionable use of curly braces in "(pin (num "25") (name "~{reset}") (type "input"))"
+    Error: undefined symbol in: "[reset]"
+Questionable use of curly braces in "(node (ref "u1") (pin "25") (pinfunction "~{reset}") (pintype "input"))"
+    Error: undefined symbol in: "[reset]"
+Questionable use of curly braces in "(node (ref "u2") (pin "25") (pinfunction "~{reset}") (pintype "input")))"
+    Error: undefined symbol in: "[reset]"
+Circuit: (export (version "E")
+
+Fatal Error: Unknown SPICE device type "(" in "(design"

@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\vojte\OneDrive - Západočeská univerzita v Plzni\PhD\Projects\IR_lights\HW\IR_lights.kicad_sch</source>
+    <date>31.03.2023 7:55:20</date>
+    <tool>Eeschema (6.0.2)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>IR_lights.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afb7d8ec-4891-40b6-bdca-0c4494fb267f</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46e3ea2b-cae7-40c4-898f-18e60148dedd</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Murata-Electronics/GRM155R60J106ME15D?qs=I53XXhTNm8s65u6%252BR3mHqw%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Murata-Electronics/GRM155R60J106ME15D?qs=I53XXhTNm8s65u6%252BR3mHqw%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c48bda8-6e7e-4415-a7fd-52f2cee4ce99</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fac7f9de-409f-4ebb-bbe8-72776f685613</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>448c3964-7331-4af5-817d-f60e75dbcb49</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8adbb34-d897-429a-a964-58f716f05534</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>240cf7d6-bc23-47fc-9ac7-1a317142315c</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/TDK/C1005X7R1E104K050BB?qs=dfay7wIA1uG4zQgf5CEiiA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4542fa2-96c5-41b9-8ec0-bde6fbe2c509</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Murata-Electronics/GRM155R60J106ME15D?qs=I53XXhTNm8s65u6%252BR3mHqw%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Murata-Electronics/GRM155R60J106ME15D?qs=I53XXhTNm8s65u6%252BR3mHqw%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0416734-1b43-4706-b615-06b9baa0c961</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/ROHM-Semiconductor/SML-P11MTT86R?qs=Ei%2Fnxee9QYjTp1Nxjct8oA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/ROHM-Semiconductor/SML-P11MTT86R?qs=Ei%2Fnxee9QYjTp1Nxjct8oA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f0bf4c0-8d03-4636-bd0c-23a1b4cc324f</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/ROHM-Semiconductor/SML-P11MTT86R?qs=Ei%2Fnxee9QYjTp1Nxjct8oA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/ROHM-Semiconductor/SML-P11MTT86R?qs=Ei%2Fnxee9QYjTp1Nxjct8oA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fa6c091-a790-4e1d-8c21-80ccbf89b825</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LD274</value>
+      <footprint>LED_THT:LED_D5.0mm_IRGrey</footprint>
+      <datasheet>http://pdf.datasheetcatalog.com/datasheet/siemens/LD274.pdf</datasheet>
+      <libsource lib="LED" part="LD274" description="950nm IR-LED, 5mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f9c9880-3168-4de5-a598-68da5da15ef0</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Samtec/TFM-105-02-S-D-P-TR?qs=0lQeLiL1qyZkzU6Gp763VA%3D%3D</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Samtec/TFM-105-02-S-D-P-TR?qs=0lQeLiL1qyZkzU6Gp763VA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>280f6694-8b9f-432d-8e1a-068b3244b8dc</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a502b8c2-03f0-4066-a20f-b7cf7699e3cd</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d898f9b8-51e8-441d-a2c3-5781b195ce2f</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>10u</value>
+      <footprint>LQM21DN220N00L</footprint>
+      <datasheet>https://psearch.en.murata.com/inductor/product/LQM21DH100M70%23.html</datasheet>
+      <fields>
+        <field name="Description">LQM21DH_70 Series Inductor 10uH +/-20% 0805 (2012)</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">LQM21DH100M70L</field>
+        <field name="Mouser Part Number">81-LQM21DH100M70L</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQM21DH100M70L?qs=17u8i%2FzlE8%252Ba3UoYPUWcpQ%3D%3D</field>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Murata-Electronics/LQM21DH100M70L?qs=17u8i%2FzlE8%252Ba3UoYPUWcpQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="LQM21DH100M70L" description="LQM21DH_70 Series Inductor 10uH +/-20% 0805 (2012)"/>
+      <property name="Description" value="LQM21DH_70 Series Inductor 10uH +/-20% 0805 (2012)"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="81-LQM21DH100M70L"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQM21DH100M70L?qs=17u8i%2FzlE8%252Ba3UoYPUWcpQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="LQM21DH100M70L"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Murata-Electronics/LQM21DH100M70L?qs=17u8i%2FzlE8%252Ba3UoYPUWcpQ%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>987f0bd7-7b14-4571-8926-3fb01fef165e</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e94f01ae-8487-44dc-9b56-b112e7e5acdc</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/YAGEO/RC0402FR-0710KL?qs=I1mnnYJTTsxUoNwrUsQExA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/YAGEO/RC0402FR-0710KL?qs=I1mnnYJTTsxUoNwrUsQExA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c62edcbe-8af6-4363-acd7-02c639df14d6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c856be81-e7e0-4ff4-b909-dcae378f8030</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da99f8af-4127-4fb3-9ad6-9c6fcfb39192</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b1b78dc-f1a3-4277-9892-47a672527ef7</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>496d4266-27d0-4200-a0c6-dd899eda8e82</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Bourns/CR0402AFX-1001GLF?qs=GedFDFLaBXGtEgTtdRRFew%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b165501-917a-4f84-a6b5-e50c8ace20b0</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>68</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Shop" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9da816f6-91c7-44db-a107-b1bb112b7396</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push_Dual</value>
+      <footprint>SamacSys_Parts:Tlacitko</footprint>
+      <libsource lib="Switch" part="SW_Push_Dual" description="Push button switch, generic, symbol, four pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0334b22d-5ad6-4657-a398-748a2ac919da</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push_Dual</value>
+      <footprint>SamacSys_Parts:Tlacitko</footprint>
+      <libsource lib="Switch" part="SW_Push_Dual" description="Push button switch, generic, symbol, four pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1d62e03-b52a-4cd7-a259-a4f7f293de83</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push_Dual</value>
+      <footprint>SamacSys_Parts:Tlacitko</footprint>
+      <libsource lib="Switch" part="SW_Push_Dual" description="Push button switch, generic, symbol, four pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5700937b-6843-43ef-900a-3f058dff906b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATSAMD21E15L-M</value>
+      <footprint>Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf</datasheet>
+      <libsource lib="MCU_Microchip_SAMD" part="ATSAMD21E15L-M" description="SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash w/ 1K RWW, 4K SRAM, Pinout Optimized for Analog &amp; PWM, QFN-32"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17d016f7-4222-467c-bc82-27c35740b32b</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ATSAMD21E15L-A</value>
+      <footprint>Package_QFP:TQFP-32_7x7mm_P0.8mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf</datasheet>
+      <fields>
+        <field name="Shop">https://cz.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATSAMD21E15L-AFT?qs=9KdFJXLqUo8WARyYvg5fJQ%3D%3D</field>
+      </fields>
+      <libsource lib="MCU_Microchip_SAMD" part="ATSAMD21E15L-A" description="SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash w/ 1K RWW, 4K SRAM, Pinout Optimized for Analog &amp; PWM, TQFP-32"/>
+      <property name="Shop" value="https://cz.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATSAMD21E15L-AFT?qs=9KdFJXLqUo8WARyYvg5fJQ%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IR_lights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a9b1558-5932-4e22-a7ff-aac8cef7d6e2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="LD274">
+      <description>950nm IR-LED, 5mm</description>
+      <docs>http://pdf.datasheetcatalog.com/datasheet/siemens/LD274.pdf</docs>
+      <footprints>
+        <fp>LED*5.0mm*IRGrey*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LD274</field>
+        <field name="Footprint">LED_THT:LED_D5.0mm_IRGrey</field>
+        <field name="Datasheet">http://pdf.datasheetcatalog.com/datasheet/siemens/LD274.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_SAMD" part="ATSAMD21E15L-A">
+      <description>SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash w/ 1K RWW, 4K SRAM, Pinout Optimized for Analog &amp; PWM, TQFP-32</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf</docs>
+      <footprints>
+        <fp>TQFP*7x7mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATSAMD21E15L-A</field>
+        <field name="Footprint">Package_QFP:TQFP-32_7x7mm_P0.8mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PA02" type="bidirectional"/>
+        <pin num="2" name="PA03" type="bidirectional"/>
+        <pin num="3" name="PB04" type="bidirectional"/>
+        <pin num="4" name="PB05" type="bidirectional"/>
+        <pin num="5" name="PA04" type="bidirectional"/>
+        <pin num="6" name="PA05" type="bidirectional"/>
+        <pin num="7" name="PA06" type="bidirectional"/>
+        <pin num="8" name="PA07" type="bidirectional"/>
+        <pin num="9" name="VDDIO/VDDANA" type="power_in"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="PA08" type="bidirectional"/>
+        <pin num="12" name="PA09" type="bidirectional"/>
+        <pin num="13" name="PA10" type="bidirectional"/>
+        <pin num="14" name="PA11" type="bidirectional"/>
+        <pin num="15" name="PA14" type="bidirectional"/>
+        <pin num="16" name="PA15" type="bidirectional"/>
+        <pin num="17" name="PA16" type="bidirectional"/>
+        <pin num="18" name="PA17" type="bidirectional"/>
+        <pin num="19" name="PA18" type="bidirectional"/>
+        <pin num="20" name="PA19" type="bidirectional"/>
+        <pin num="21" name="PA22" type="bidirectional"/>
+        <pin num="22" name="PA23" type="bidirectional"/>
+        <pin num="23" name="PA24" type="bidirectional"/>
+        <pin num="24" name="PA25" type="bidirectional"/>
+        <pin num="25" name="~{RESET}" type="input"/>
+        <pin num="26" name="GND" type="passive"/>
+        <pin num="27" name="VDDCORE" type="power_out"/>
+        <pin num="28" name="VDDIO" type="power_in"/>
+        <pin num="29" name="PA30" type="bidirectional"/>
+        <pin num="30" name="PA31" type="bidirectional"/>
+        <pin num="31" name="PB02" type="bidirectional"/>
+        <pin num="32" name="PB03" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_SAMD" part="ATSAMD21E15L-M">
+      <description>SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash w/ 1K RWW, 4K SRAM, Pinout Optimized for Analog &amp; PWM, QFN-32</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf</docs>
+      <footprints>
+        <fp>QFN*5x5mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATSAMD21E15L-M</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PA02" type="bidirectional"/>
+        <pin num="2" name="PA03" type="bidirectional"/>
+        <pin num="3" name="PB04" type="bidirectional"/>
+        <pin num="4" name="PB05" type="bidirectional"/>
+        <pin num="5" name="PA04" type="bidirectional"/>
+        <pin num="6" name="PA05" type="bidirectional"/>
+        <pin num="7" name="PA06" type="bidirectional"/>
+        <pin num="8" name="PA07" type="bidirectional"/>
+        <pin num="9" name="VDDIO/VDDANA" type="power_in"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="PA08" type="bidirectional"/>
+        <pin num="12" name="PA09" type="bidirectional"/>
+        <pin num="13" name="PA10" type="bidirectional"/>
+        <pin num="14" name="PA11" type="bidirectional"/>
+        <pin num="15" name="PA14" type="bidirectional"/>
+        <pin num="16" name="PA15" type="bidirectional"/>
+        <pin num="17" name="PA16" type="bidirectional"/>
+        <pin num="18" name="PA17" type="bidirectional"/>
+        <pin num="19" name="PA18" type="bidirectional"/>
+        <pin num="20" name="PA19" type="bidirectional"/>
+        <pin num="21" name="PA22" type="bidirectional"/>
+        <pin num="22" name="PA23" type="bidirectional"/>
+        <pin num="23" name="PA24" type="bidirectional"/>
+        <pin num="24" name="PA25" type="bidirectional"/>
+        <pin num="25" name="~{RESET}" type="input"/>
+        <pin num="26" name="GND" type="passive"/>
+        <pin num="27" name="VDDCORE" type="power_out"/>
+        <pin num="28" name="VDDIO" type="power_in"/>
+        <pin num="29" name="PA30" type="bidirectional"/>
+        <pin num="30" name="PA31" type="bidirectional"/>
+        <pin num="31" name="PB02" type="bidirectional"/>
+        <pin num="32" name="PB03" type="bidirectional"/>
+        <pin num="33" name="EP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="LQM21DH100M70L">
+      <description>LQM21DH_70 Series Inductor 10uH +/-20% 0805 (2012)</description>
+      <docs>https://psearch.en.murata.com/inductor/product/LQM21DH100M70%23.html</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">LQM21DH100M70L</field>
+        <field name="Footprint">LQM21DN220N00L</field>
+        <field name="Datasheet">https://psearch.en.murata.com/inductor/product/LQM21DH100M70%23.html</field>
+        <field name="Description">LQM21DH_70 Series Inductor 10uH +/-20% 0805 (2012)</field>
+        <field name="Height">1.45</field>
+        <field name="Mouser Part Number">81-LQM21DH100M70L</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQM21DH100M70L?qs=17u8i%2FzlE8%252Ba3UoYPUWcpQ%3D%3D</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">LQM21DH100M70L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push_Dual">
+      <description>Push button switch, generic, symbol, four pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_Dual</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_SAMD">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_Microchip_SAMD.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Folders/Programs/LibraryLoaderData/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L3" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U2" pin="28" pinfunction="VDDIO" pintype="power_in"/>
+    </net>
+    <net code="2" name="/DAY">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="PB05" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="PB05" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/IR_TRANSMITTER">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="PA07" pintype="bidirectional"/>
+      <node ref="U2" pin="8" pinfunction="PA07" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/LED1">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="PA10" pintype="bidirectional"/>
+      <node ref="U2" pin="13" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/NIGHT">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="PA15" pintype="bidirectional"/>
+      <node ref="U2" pin="16" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/ON_OFF">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="PA03" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="PA03" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/PA02">
+      <node ref="U1" pin="1" pinfunction="PA02" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="PA02" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/PA04">
+      <node ref="U1" pin="5" pinfunction="PA04" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="PA04" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/PA05">
+      <node ref="U1" pin="6" pinfunction="PA05" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="PA05" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/PA06">
+      <node ref="U1" pin="7" pinfunction="PA06" pintype="bidirectional"/>
+      <node ref="U2" pin="7" pinfunction="PA06" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/PA08">
+      <node ref="U1" pin="11" pinfunction="PA08" pintype="bidirectional"/>
+      <node ref="U2" pin="11" pinfunction="PA08" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/PA09">
+      <node ref="U1" pin="12" pinfunction="PA09" pintype="bidirectional"/>
+      <node ref="U2" pin="12" pinfunction="PA09" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/PA11">
+      <node ref="U1" pin="14" pinfunction="PA11" pintype="bidirectional"/>
+      <node ref="U2" pin="14" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/PA14">
+      <node ref="U1" pin="15" pinfunction="PA14" pintype="bidirectional"/>
+      <node ref="U2" pin="15" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/PA18">
+      <node ref="U1" pin="19" pinfunction="PA18" pintype="bidirectional"/>
+      <node ref="U2" pin="19" pinfunction="PA18" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/PA19">
+      <node ref="U1" pin="20" pinfunction="PA19" pintype="bidirectional"/>
+      <node ref="U2" pin="20" pinfunction="PA19" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/PA22">
+      <node ref="U1" pin="21" pinfunction="PA22" pintype="bidirectional"/>
+      <node ref="U2" pin="21" pinfunction="PA22" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/PA23">
+      <node ref="U1" pin="22" pinfunction="PA23" pintype="bidirectional"/>
+      <node ref="U2" pin="22" pinfunction="PA23" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/PA24">
+      <node ref="U1" pin="23" pinfunction="PA24" pintype="bidirectional"/>
+      <node ref="U2" pin="23" pinfunction="PA24" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/PA25">
+      <node ref="U1" pin="24" pinfunction="PA25" pintype="bidirectional"/>
+      <node ref="U2" pin="24" pinfunction="PA25" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/PB02">
+      <node ref="U1" pin="31" pinfunction="PB02" pintype="bidirectional"/>
+      <node ref="U2" pin="31" pinfunction="PB02" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/PB03">
+      <node ref="U1" pin="32" pinfunction="PB03" pintype="bidirectional"/>
+      <node ref="U2" pin="32" pinfunction="PB03" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/PB04">
+      <node ref="U1" pin="3" pinfunction="PB04" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="PB04" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/RESET">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="U2" pin="25" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="25" name="/SCL">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="PA16" pintype="bidirectional"/>
+      <node ref="U2" pin="17" pinfunction="PA16" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/SDA">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="PA17" pintype="bidirectional"/>
+      <node ref="U2" pin="18" pinfunction="PA17" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/SWDCLK">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="PA30" pintype="bidirectional"/>
+      <node ref="U2" pin="29" pinfunction="PA30" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/SWDIO">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="PA31" pintype="bidirectional"/>
+      <node ref="U2" pin="30" pinfunction="PA31" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/VDD_A">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="L3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="VDDIO/VDDANA" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="VDDIO/VDDANA" pintype="power_in"/>
+    </net>
+    <net code="30" name="/VDD_C">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="VDDCORE" pintype="power_out"/>
+      <node ref="U2" pin="27" pinfunction="VDDCORE" pintype="power_out"/>
+    </net>
+    <net code="31" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SW2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SW3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="26" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="EP" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="26" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="38" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(J1-Pad7)">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
