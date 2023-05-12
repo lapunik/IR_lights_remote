@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="rivet_gun"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rivet_gun">
+				<Option output="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/rivet_gun.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__SAMD21E15L__"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/CMSIS/include"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/MCU_SAMD21C/include"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/peripherals"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/include"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/include-fixed"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 rivet_gun"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rivet_gun/fast">
+				<Option output="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/rivet_gun.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__SAMD21E15L__"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/CMSIS/include"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/MCU_SAMD21C/include"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/peripherals"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/include"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/include-fixed"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 rivet_gun/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="startup">
+				<Option output="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/libstartup.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__SAMD21E15L__"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/CMSIS/include"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/MCU_SAMD21C/include"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/include"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/include-fixed"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 startup"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="startup/fast">
+				<Option output="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/libstartup.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__SAMD21E15L__"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/CMSIS/include"/>
+					<Add directory="/mnt/c/Folders/School/rivetgun-master/FW/lib/MCU_SAMD21C/include"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/include"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/include-fixed"/>
+					<Add directory="/usr/lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 startup/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/lib/MCU_SAMD21C/src/startup_samd21.c">
+			<Option target="startup"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/lib/MCU_SAMD21C/src/system_samd21.c">
+			<Option target="startup"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/lib/peripherals/gpio.hpp">
+			<Option target="rivet_gun"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/lib/peripherals/gpio_definitions.hpp">
+			<Option target="rivet_gun"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/lib/peripherals/systick.hpp">
+			<Option target="rivet_gun"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/lib/peripherals/watchdog.hpp">
+			<Option target="rivet_gun"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/src/IR_transmitter.hpp">
+			<Option target="startup"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/src/System.cpp">
+			<Option target="rivet_gun"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/src/System.hpp">
+			<Option target="rivet_gun"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/src/main.cpp">
+			<Option target="rivet_gun"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/cmake/ARMFunctions.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/cmake/PreventInSourceBuilds.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Folders/School/rivetgun-master/FW/cmake/ToolchainARMCortex.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

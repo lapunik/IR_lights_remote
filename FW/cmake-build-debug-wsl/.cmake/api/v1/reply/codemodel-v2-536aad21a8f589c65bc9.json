@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rivet_gun",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rivet_gun::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rivet_gun-Release-8f96e82eab1656c4c843.json",
+					"name" : "rivet_gun",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "startup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-startup-Release-307bde3d07686c5366f4.json",
+					"name" : "startup",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/vojte/OneDrive - Západočeská univerzita v Plzni/PhD/Projects/Nýtovačka - ABRASIV/Board design/rivetgun/FW/cmake-build-debug-wsl",
+		"source" : "/mnt/c/Users/vojte/OneDrive - Západočeská univerzita v Plzni/PhD/Projects/Nýtovačka - ABRASIV/Board design/rivetgun/FW"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,2 @@
+"/usr/bin/arm-none-eabi-gcc-ar" cr libstartup.a CMakeFiles/startup.dir/lib/MCU_SAMD21C/src/startup_samd21.c.obj CMakeFiles/startup.dir/lib/MCU_SAMD21C/src/system_samd21.c.obj
+"/usr/bin/arm-none-eabi-gcc-ranlib" libstartup.a

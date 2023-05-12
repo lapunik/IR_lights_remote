@@ -1,0 +1,4 @@
+/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/CMakeFiles/rivet_gun.dir
+/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Folders/School/rivetgun-master/FW/cmake-build-debug/CMakeFiles/startup.dir
